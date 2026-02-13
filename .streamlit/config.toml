@@ -1,0 +1,19 @@
+[theme]
+base = "light"
+# The primary color for buttons, sliders, and active states
+primaryColor = "#fdcda2"  # Mazi Grey
+
+# Background color for the main content area
+backgroundColor = "#1d2633" # Mazi Navi 
+
+# Background color for the sidebar
+secondaryBackgroundColor = "#1d2633" # Mazi Maroon
+
+# Text color
+textColor = "#FFFFFF" # Mazi Grey (easier on eyes than pure black)
+
+# Font family
+font = "Poppins black"
+
+[server]
+headless = true
